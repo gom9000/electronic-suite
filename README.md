@@ -96,11 +96,6 @@ Custom-built instruments and tools designed to equip my workbench.
 >
 >A tester to measure the forward voltage drop ($V_f$) of diodes or the working voltage of Zener diodes under selectable currents (1mA, 2mA, 5mA, 10mA, 20mA, 30mA).
 
->**Dummy Load for Low-Power PSU *(coming soon)***<br/>
->**Type**: Active Load | **Status**: Development
->
->A 20W Constant Current (CC) load for PSU stress testing with adjustable current from 0A to 1A and input range from 1.5V to 30V.
-
 
 ---
 

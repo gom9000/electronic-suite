@@ -9,6 +9,6 @@
     <circle cx="38" cy="26" r="1.5"/>
     <path d="M 7,18 Q 14,5 21,18 T 29,18" stroke="#58a6ff" stroke-width="1.5"/>
   </g>
-  <text x="95" y="31" font-family="Segoe UI, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#c9d1d9">LABORATORY EQUIPMENT</text>
-  <text x="95" y="47" font-family="Segoe UI, Helvetica, sans-serif" font-size="12" fill="#8b949e">Instruments, Test Tools &amp; Bench Hardware</text>
+  <text x="95" y="31" font-family="Segoe UI, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#c9d1d9">BENCH TOOLS</text>
+  <text x="95" y="47" font-family="Segoe UI, Helvetica, sans-serif" font-size="12" fill="#8b949e">Test Tools &amp; Bench Hardware</text>
 </svg>
