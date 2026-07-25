@@ -42,11 +42,6 @@ A series of experiences exploring specific components, techniques, and design ap
 >
 >A collection of experiments focused on interfacing the Raspberry Pi with the external world.
 
->**[SwitchBank eXPerience](https://github.com/gom9000/xp-switchbank)**<br/>
->**Type**: Hardware Interfacing | **Status**: Concept
->
->A study on the classification and implementation of switch-bank circuits (arrays and matrices), focusing on momentary switches.
-
 >**[Presepe Lights-Controller eXPerience](https://github.com/gom9000/xp-presepe-lights)**<br/>
 >**Type**: Analog Design | **Status**: Ongoing
 >
