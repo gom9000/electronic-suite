@@ -91,10 +91,15 @@ Custom-built instruments and tools designed to equip my workbench.
 >
 >A C-based programmer for 5V parallel EEPROMs of the 28C family hosted by a Raspberry Pi. The tool leverages bidirectional level translators to safely control and write data to the target non-volatile memories via terminal commands.
 
+>**[Quad Resistive Load for 9V Supplies](https://github.com/gom9000/quad-resistive-load-9)**  
+>**Type**: Dummy Load | **Status**: Completed
+>
+>Simple quad resistive static load designed to stress test small 9V power bank units and audio power supplies.
+
 >**[Diode Tester](https://github.com/gom9000/diode-tester)**  
 >**Type**: Component Tester | **Status**: Testing
 >
->A tester to measure the forward voltage drop ($V_f$) of diodes or the working voltage of Zener diodes under selectable currents (1mA, 2mA, 5mA, 10mA, 20mA, 30mA).
+>A tester to measure the forward voltage drop ($V_f$) of diodes or the working voltage of Zener diodes under selectable currents (1mA, 2mA, 5mA, 10mA, 20mA, 30mA, 50mA, 100mA).
 
 
 ---
